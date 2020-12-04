@@ -11,7 +11,7 @@
 <br>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=smuv.smuv" />
 <h2> info </h2>
-<b>smuv</b> is a ✨ <u>special</u> ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>smuv</b> is a ✨ <u>special</u> ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
